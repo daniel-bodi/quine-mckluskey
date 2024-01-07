@@ -52,7 +52,4 @@ Q=(C/D)+(/BD/E)
 
 Function (without hazards):
 Q=(/BD/E)+(/CD/E)+(/BC/E)+(A/B/E)+(B/CD)+(C/D)
-
-Function (without hazards):
-Q=(/A/B/C)+(/B/C/D)+(/A/CD)+(A/B/D)+(/ABD)+(AC/D)+(BCD)+(ABC)
 ```
